@@ -19,7 +19,7 @@ Langkah Langkah instalasi :
 
 - git clone https://maskhoped-private@github.com/maskhoped/free-vpn.git
 
-note : jika dimintai password.. maka masukkan kata kunci yang ada di dalam kurung berikut ini..
+note : jika dimintai password.. maka masukkan kata kunci yang ada di berikut ini.. ( pastikan tidak ada spasi saat menyalin kata kunci! )
 👉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👈
 
 
