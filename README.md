@@ -14,7 +14,7 @@ semisal saya ingin mengunduhnya ke direktori Downloads :
 
 setelah masuk ke direktori yang di inginkan untuk menyimpan file vpn baru kita download
 
-- git clone
+- git clone https://maskhoped-private@github.com/maskhoped/free-vpn.git
 
-note : dimana saya mendapatkan link downloadnya? di sini.........
-![Capture](https://github.com/user-attachments/assets/501e25d5-10b7-4510-9e82-9afaa7119b0a)
+note : jika dimintai password.. maka masukkan kata kunci yang ada di dalam kurung di bawah ini
+( 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 )
