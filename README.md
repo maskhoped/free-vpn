@@ -32,12 +32,20 @@ note : jika dimintai password.. maka masukkan kata kunci yang ada di berikut ini
 
 - apt update && apt upgrade
 - apt --fix-broken install
-- apt install sudo openvpn net-tools policykit-1
+
+( jangan lupa untuk menginstall dependensi yang dibutuhkan [penting!] )
+- apt install iptables sudo openvpn net-tools policykit-1 psmisc
 - apt --fix-broken install
+- apt install iptables sudo openvpn net-tools policykit-1 psmisc
+
 ( disini pastikan sudah masuk di direktori dimana anda menyimpan file vpn nya "windscribe-cli_2.12.7_amd64.deb" )
 - sudo dpkg -i windscribe-cli_2.12.7_amd64.deb
 - apt --fix-broken install
+- sudo dpkg -i windscribe-cli_2.12.7_amd64.deb
 
-note : saya memberikan perintah "apt --fix-broken install" karena terkadang ada eror saat penginstalan, jadi kalau tidak eror saat menginstal maka tidak perlu
+note : saya memberikan perintah "apt --fix-broken install" karena terkadang ada eror pada saat penginstalan, jadi kalau tidak eror saat menginstal maka tidak perlu
+
+
+
 
 
