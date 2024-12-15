@@ -8,6 +8,6 @@ Langkah Langkah instalasi :
 
 ( lalu download file vpn nya dan copy ke direktori yang di inginkan )
 - semisal saya ingin mengunduhnya ke direktori Downloads :
-# cd /home/namauserkalian/Downloads
+$ cd /home/namauserkalian/Downloads
 - setelah masuk ke direktori yang di inginkan untuk menyimpan file vpn baru kita download
 # git clone 
