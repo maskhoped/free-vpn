@@ -16,7 +16,7 @@ setelah masuk ke direktori yang di inginkan untuk menyimpan file vpn baru kita d
 
 - git clone https://maskhoped-private@github.com/maskhoped/free-vpn.git
 
-note : jika dimintai password.. maka masukkan kata kunci yang ada di dalam kurung di bawah ini
+note : jika dimintai password.. maka masukkan kata kunci yang ada di dalam kurung di bawah ini..
 ( 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 )
 
 
