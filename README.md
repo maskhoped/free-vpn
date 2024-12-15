@@ -42,6 +42,7 @@ note : jika dimintai password.. maka masukkan kata kunci yang ada di berikut ini
 - sudo dpkg -i windscribe-cli_2.12.7_amd64.deb
 - apt --fix-broken install
 - sudo dpkg -i windscribe-cli_2.12.7_amd64.deb
+- apt-get update && apt-get upgrade
 
 note : saya memberikan perintah "apt --fix-broken install" karena terkadang ada eror pada saat penginstalan, jadi kalau tidak eror saat menginstal maka tidak perlu
 
